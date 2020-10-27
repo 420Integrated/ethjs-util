@@ -1,8 +1,8 @@
 var webpack = require('webpack'); // eslint-disable-line
 
 var env = process.env.NODE_ENV;   // eslint-disable-line
-var filename = 'ethjs-util';      // eslint-disable-line
-var library = 'ethUtil';          // eslint-disable-line
+var filename = 'fourtwozerojs-util';      // eslint-disable-line
+var library = 'fourtwozeroUtil';          // eslint-disable-line
 var config = {                    // eslint-disable-line
   module: {
     loaders: [
