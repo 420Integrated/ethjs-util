@@ -1,16 +1,16 @@
 {
-  "_from": "ethjs-util",
-  "_id": "ethjs-util@0.1.4",
+  "_from": "fourtwozerojs-util",
+  "_id": "fourtwozerojs-util@0.1.4",
   "_inBundle": false,
   "_integrity": "sha1-HItoeSV0RO9NPz+7rC3tEs2ZfZM=",
-  "_location": "/ethjs-util",
+  "_location": "/fourtwozerojs-util",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "ethjs-util",
-    "name": "ethjs-util",
-    "escapedName": "ethjs-util",
+    "raw": "fourtwozerojs-util",
+    "name": "fourtwozerojs-util",
+    "escapedName": "fourtwozerojs-util",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,12 +19,12 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ethjs-util/-/ethjs-util-0.1.4.tgz",
+  "_resolved": "https://registry.npmjs.org/fourtwozerojs-util/-/fourtwozerojs-util-0.1.4.tgz",
   "_shasum": "1c8b6879257444ef4d3f3fbbac2ded12cd997d93",
-  "_spec": "ethjs-util",
+  "_spec": "fourtwozerojs-util",
   "_where": "/home/nick",
   "authors": [
-    "Nick Dodson <nick.dodson@consensys.net>"
+    "420integrated <abvhiael@420integrated.com>"
   ],
   "babel": {
     "plugins": [
@@ -93,7 +93,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/ethjs/ethjs-util/issues"
+    "url": "https://github.com/420integrated/fourtwozerojs-util/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -108,7 +108,7 @@
     "strip-hex-prefix": "1.0.0"
   },
   "deprecated": false,
-  "description": "A simple set of Ethereum JS utilties.",
+  "description": "A simple set of 420coin JS utilties.",
   "devDependencies": {
     "babel-cli": "6.18.0",
     "babel-core": "6.18.2",
@@ -203,13 +203,13 @@
     "lib",
     "src"
   ],
-  "homepage": "https://github.com/ethjs/ethjs-util#readme",
+  "homepage": "https://github.com/420integrated/fourtwozerojs-util#readme",
   "keywords": [
-    "ethereum",
+    "420coin",
     "rpc",
     "formatter",
     "format",
-    "ethereum",
+    "fourtwenty",
     "encoding",
     "decoding"
   ],
@@ -218,11 +218,11 @@
     "lint:eslint": "*.js"
   },
   "main": "lib/index.js",
-  "name": "ethjs-util",
+  "name": "fourtwozerojs-util",
   "pre-commit": "build",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ethjs/ethjs-util.git"
+    "url": "git+ssh://git@github.com/420integrated/fourtwozerojs-util.git"
   },
   "scripts": {
     "build": "npm run build:commonjs && npm run test:lib && npm run build:umd && npm run build:umd:min",
