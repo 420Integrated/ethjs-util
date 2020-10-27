@@ -1,6 +1,6 @@
-# Contributing to ethjs-util
+# Contributing to fourtwozerojs-util
 
-Love ethjs-util and want to help? Thanks so much, there's something to do for everybody!
+Love fourtwozerojs-util and want to help? Thanks so much, there's something to do for everybody!
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
@@ -8,7 +8,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/ethjs/ethjs-util/issues) is
+The [issue tracker](https://github.com/420integrated/fourtwozerojs-util/issues) is
 the preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests).
 
@@ -76,11 +76,11 @@ included in the project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/ethjs-util.git
+   git clone https://github.com/<your-username>/fourtwozerojs-util.git
    # Navigate to the newly cloned directory
-   cd ethjs-util
+   cd fourtwozerojs-util
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/ethjs/ethjs-util.git
+   git remote add upstream https://github.com/420integrated/fourtwozerojs-util.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
