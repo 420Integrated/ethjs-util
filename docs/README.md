@@ -17,8 +17,6 @@ should not need to be touched.
 
 For more in-depth structure, see the developer-guide.md.
 
-*(If they do have to be changed, please [submit an issue](https://github.com/ethjs/ethjs-util/issues)!)*
-
 ### Testing
 
 For a thorough explanation of the testing procedure, see the
