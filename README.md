@@ -1,54 +1,17 @@
-## ethjs-util
+## fourtwozerojs-util
 
-<div>
-  <!-- Dependency Status -->
-  <a href="https://david-dm.org/ethjs/ethjs-util">
-    <img src="https://david-dm.org/ethjs/ethjs-util.svg"
-    alt="Dependency Status" />
-  </a>
-
-  <!-- devDependency Status -->
-  <a href="https://david-dm.org/ethjs/ethjs-util#info=devDependencies">
-    <img src="https://david-dm.org/ethjs/ethjs-util/dev-status.svg" alt="devDependency Status" />
-  </a>
-
-  <!-- Build Status -->
-  <a href="https://travis-ci.org/ethjs/ethjs-util">
-    <img src="https://travis-ci.org/ethjs/ethjs-util.svg"
-    alt="Build Status" />
-  </a>
-
-  <!-- NPM Version -->
-  <a href="https://www.npmjs.org/package/ethjs-util">
-    <img src="http://img.shields.io/npm/v/ethjs-util.svg"
-    alt="NPM version" />
-  </a>
-
-  <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/ethjs/ethjs-util">
-    <img src="https://coveralls.io/repos/github/ethjs/ethjs-util/badge.svg" alt="Test Coverage" />
-  </a>
-
-  <!-- Javascript Style -->
-  <a href="http://airbnb.io/javascript/">
-    <img src="https://img.shields.io/badge/code%20style-airbnb-brightgreen.svg" alt="js-airbnb-style" />
-  </a>
-</div>
-
-<br />
-
-A simple set of Ethereum JS utilities such as `toBuffer` and `isHexPrefixed`.
+A simple set of 420coin JS utilities such as `toBuffer` and `isHexPrefixed`.
 
 ## Install
 
 ```
-npm install --save ethjs-util
+npm install --save fourtwozerojs-util
 ```
 
 ## Usage
 
 ```js
-const util = require('ethjs-util');
+const util = require('fourtwozerojs-util');
 
 const value = util.intToBuffer(38272);
 
@@ -57,7 +20,7 @@ const value = util.intToBuffer(38272);
 
 ## About
 
-A simple set of Ethereum JS utilties, mainly for frontend dApps.
+A simple set of 420coin JS utilties, mainly for frontend dApps.
 
 ## Available Methods
 
@@ -87,10 +50,10 @@ Please help better the ecosystem by submitting issues and pull requests to defau
 
 ## Guides
 
-You'll find more detailed information on using `ethjs-util` and tailoring it to your needs in our guides:
+You'll find more detailed information on using `fourtwozerojs-util` and tailoring it to your needs in our guides:
 
 - [User guide](docs/user-guide.md) - Usage, configuration, FAQ and complementary tools.
-- [Developer guide](docs/developer-guide.md) - Contributing to `ethjs-util` and writing your own code and coverage.
+- [Developer guide](docs/developer-guide.md) - Contributing to `fourtwozerojs-util` and writing your own code and coverage.
 
 ## Help out
 
@@ -106,22 +69,22 @@ There is always a lot of work to do, and will have many rules to maintain. So pl
 
 Please consult our [Code of Conduct](CODE_OF_CONDUCT.md) docs before helping out.
 
-We communicate via [issues](https://github.com/ethjs/ethjs-util/issues) and [pull requests](https://github.com/ethjs/ethjs-util/pulls).
+We communicate via [issues](https://github.com/420integrated/fourtwozerojs-util/issues) and [pull requests](https://github.com/420integrated/fourtwozerojs-util/pulls).
 
 ## Important documents
 
 - [Changelog](CHANGELOG.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-- [License](https://raw.githubusercontent.com/ethjs/ethjs-util/master/LICENSE)
+- [License](https://raw.githubusercontent.com/420integrated/fourtwozerojs-util/master/LICENSE)
 
 ## Licence
 
-This project is licensed under the MIT license, Copyright (c) 2016 Nick Dodson. For more information see LICENSE.md.
+This project is licensed under the MIT license, Copyright (c) 2020 420integrated. For more information see LICENSE.md.
 
 ```
 The MIT License
 
-Copyright (c) 2016 Nick Dodson. nickdodson.com
+Copyright (c) 2020 420integrated 420integrated.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
